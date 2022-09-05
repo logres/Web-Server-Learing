@@ -1,0 +1,2 @@
+# Web-Server-Learing
+Majoring in Software Engineering, I have developed some web application for my course-task or some competition. What I have done is just to combine some off-the-shelf middleware into a off-the-shelf web applocation framework. I don't think it is enough for me to use a framework without knowing what was done for me behind the sences, so I create this repository to learn, to test, and eventually develop a/some web server with different technique I learned from the internet.
